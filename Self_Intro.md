@@ -1,11 +1,10 @@
 ###  👋 Hi, I’m @**Idelio-Mata**
 - 👀 I’m interested in **Cloud** | **Security** | **Software Development**
-			**Cloud** as 
--🌱 I’m currently learning ...
+			
+-🌱 I’m currently learning ... React & Java
 - 💞️ I’m looking for remote works, and collaborate on Java & React Projects ..
 
-- 📫 How to reach me : 
- 			idelioteofilomata@gmail.com
+- 📫 How to reach me : idelioteofilomata@gmail.com
 			
 
 <!---
