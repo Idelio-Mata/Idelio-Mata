@@ -1,45 +1,46 @@
-👋 Hi, I’m @Idelio-Mata Mozambican citizen
-Most of my experience lie in full stack development | operating system manager | Virtualization.
-
-👷‍♂️ I'm currently working with Java | Zk Framework | Spring boot | Angular as a software developer.
-
-💞️ I’m looking for remote works, and collaborate on Java | React | Angular Projects ..
-
-👀 I am currently studying cybersecurity and software developer.
-
-Although most of my work is not open source, I am more than happy to be given a simple web application challenge to show my fullstack skills,
-
-Thank you for your time, I look foward to hearing from you
-
-📫 How to reach me : idelioteofilomata@gmail.com | www.linkedin.com/in/idélioteófilomata--->
-
-
-
-##View
-
+## 👋 Hi, I’m @Idelio-Mata  </br> </br> 
 
 <div align="center">
   <a href="https://github.com/idelio-mata">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=idelio-mata&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubiratan-motta&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=idelio-mata&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idelio-mata&layout=compact&langs_count=7&theme=dark"/>
+ </div>
+ </br> </br>
+
+
+Most of my experience lie in full stack development | operating system manager | Virtualization.
+
+ I'm currently working with Java | Zk Framework | Spring boot | Angular as a software developer and
+ I am looking for remote works, and collaborate on Java | React | Angular Projects ..
+
+##
+##
+
+I am currently studying cybersecurity and software developer.
+
+Although most of my work is not open source, I am more than happy to be given a simple web application challenge to show my fullstack skills,
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ubiratan-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Ubiratan-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Ubiratan-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-  <img align="center" alt="Ubiratan-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-  <img align="center" alt="Ubiratan-GC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-  <img align="center" alt="Ubiratan-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  
+
+ <img align="center" alt="Java-Logo" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+ <img align="center" alt="ReactJs-Logo" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+ <img align="center" alt="Angular Js-Logo" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg" />
+ 
+<img align="center" alt="SpringBoot-Logo" height="50" width="76"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+<img align="center" alt="Graddle-Logo" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain-wordmark.svg" />
+<img align="center" alt="apache Kafka-Logo" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" />
+
+              
+<img align="center" alt="PostgreSQL-Logo" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+ <img align="center" alt="MySQL-Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
 ##
-
+##
+##
+Thank you for your time, I look foward to hearing from you.     How to reach me 📫 :
 <div> 
- <a href = "mailto:mottaubiratan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ubiratan-motta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/ubiratan-motta/ubiratan-motta/blob/output/github-contribution-grid-snake.svg)
+ <a href = "mailto:idelioteofilomata@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/idélioteófilomata" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
