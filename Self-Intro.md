@@ -12,7 +12,7 @@
 - Thank you for your time, I look foward to hearing from you
 
 
-- 📫 How to reach me : 
+- 📫 How to reach me : ..
 idelioteofilomata@gmail.com | www.linkedin.com/in/idélioteófilomata
 
 
