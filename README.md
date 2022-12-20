@@ -38,7 +38,7 @@ Although most of my work is not open source, I am more than happy to be given a 
 ##
 ##
 ##
-Thank you for your time, I look foward to hearing from you.     How to reach me 📫 :
+Thank you for your time, I look foward to hearing from you.    Hire me 👇:
 <div> 
  <a href = "mailto:idelioteofilomata@gmail.com">
    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
