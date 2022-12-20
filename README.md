@@ -2,10 +2,12 @@
 
 <div align="center">
   <a href="https://github.com/idelio-mata">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=idelio-mata&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=idelio-mata&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idelio-mata&layout=compact&langs_count=16&theme=dark"/>
  </div>
  </br> </br>
+ 
+ 
 
 
 Most of my experience lie in full stack development | operating system manager | Virtualization.
